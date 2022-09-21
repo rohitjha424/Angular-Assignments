@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
+## Problem Statement
+
+<li>Add a button which says 'Display Details'</li>
+        <li>Add a paragraph wtth any content of your choice</li>
+        <li>Toggle the displaying of that paragraph with the button created in first step</li>
+        <li>log all the button clicks in an array and output that array below the 
+            secret paragraph( may be log a timestamp or simply an increament number)</li>
+        <li> starting at the 5th log item, give all future log items a blue 
+            background (via ngStyle) and white color (ngClass)</l
+
+<hr>
+
 ## Install node modules
 
 Run `npm install` for installing the 'node module' in the project.
